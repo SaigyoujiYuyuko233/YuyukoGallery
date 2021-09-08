@@ -1,0 +1,2 @@
+# YuyukoGallery
+A hugo theme
